@@ -1,0 +1,9 @@
+Temp/*
+/Library/cache/*
+/Library/metadata/*
+bin/*
+obj/*
+.meta
+.vs/*
+*.dll
+*.pdb
